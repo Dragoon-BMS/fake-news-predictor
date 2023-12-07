@@ -1,0 +1,5 @@
+Download the pre-trained model from the given drive link
+https://drive.google.com/drive/u/0/folders/1hvUi_wYqKEAo1w5FtOxaQ16ByTodW_fj
+
+Keep it in the same folder, where model.py and app.py are kept
+Run the web app
